@@ -1,5 +1,5 @@
 # ExerciseCounter
-##For those that can't count :^)
+## For those that can't count :^)
 I enjoy doing my physial therapy while watching videos, so this is to keep track of your repetitions and sets while your mind id somewhere else.
 
 ### Main Focus
