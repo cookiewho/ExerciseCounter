@@ -1,6 +1,6 @@
-# ExerciseCounter
+# Physical Therapy Counter
 ## For those that can't count :^)
-I enjoy doing my physial therapy while watching videos, so this is to keep track of your repetitions and sets while your mind id somewhere else.
+I enjoy doing my physial therapy while watching videos, so this is to keep track of your repetitions and sets while your mind is somewhere else.
 
 #### Main Focus
 - [x] Make a main display that lets the user input sets and reps
@@ -14,3 +14,11 @@ I enjoy doing my physial therapy while watching videos, so this is to keep track
 - [ ] Add a rest period option for in between reps/ sets
 - [ ] Stopwatch  because i feel like it would feel more complete with it
 - [ ] Present in a cohesive and user friendly manner
+
+#### Images of App
+Main screen(left), Counter with timer enabled(center), Counter without timer(right)
+<p align="left">
+  <img src="https://i.imgur.com/B5HVpV8.jpg" height="600" title="Main Page">
+  <img src="https://i.imgur.com/8wJxttF.jpg" height="600" title="Timer">
+  <img src="https://i.imgur.com/AUsWIFG.jpg" height="600" title="No timer">
+</p>
